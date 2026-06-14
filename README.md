@@ -1,96 +1,85 @@
-<div align="center">
+# Hi, I’m Oluwatimilehin Folagbade
 
-# Hi, I'm Folagbade 👋
+I’m a Senior Product Manager focused on AI-enabled products, data platforms, workflow automation, and regulated digital services.
 
-### Full-stack builder focused on useful web products, AI workflows, and production-ready user experiences.
+I work across product strategy, discovery, delivery, platform design, analytics, and live-service optimisation. My background covers government digital services, fintech, SaaS, logistics, and startup environments, with experience turning complex operational workflows into scalable digital products.
 
-[![Profile views](https://komarev.com/ghpvc/?username=FOLAGBADEOLUWA&style=for-the-badge&color=0ea5e9)](https://github.com/FOLAGBADEOLUWA)
-[![GitHub followers](https://img.shields.io/github/followers/FOLAGBADEOLUWA?style=for-the-badge&logo=github&color=111827)](https://github.com/FOLAGBADEOLUWA?tab=followers)
+## What I work on
 
-</div>
+- AI-enabled products and workflow automation
+- Financial data, analytics, and decision-support platforms
+- Regulated digital services and high-governance product environments
+- Platform capabilities that support multiple journeys, teams, and users
+- Rules-based systems, eligibility logic, exception handling, and lifecycle workflows
+- Product analytics, KPI frameworks, service improvement, and roadmap prioritisation
 
----
+## Product strengths
 
-## 🚀 About Me
+- End-to-end product ownership across discovery, delivery, and live service
+- Roadmap planning, backlog ownership, release governance, and stakeholder alignment
+- Translating policy, operational insight, customer needs, and data into product requirements
+- Working with engineering, design, operations, compliance, suppliers, and senior stakeholders
+- Designing scalable workflows across onboarding, servicing, transaction processing, decisioning, and recovery
+- Using performance data to improve reliability, throughput, user satisfaction, and operational efficiency
 
-I'm a product-minded developer who enjoys turning ideas into practical web apps — from AI-powered learning tools to calculators, content engines, dashboards, and business utilities.
+## Tools & platforms
 
-- 🧠 Building with **Next.js, React, TypeScript, and Tailwind CSS**
-- 🤖 Exploring **AI-assisted products**, content generation, study tools, and automation
-- 🛠️ Comfortable shipping full-stack features, dashboards, auth flows, APIs, and deployment pipelines
-- 📈 Interested in SEO, performance, product UX, and scalable web platforms
-- 🌍 Always learning, improving, and building products that solve real problems
+**Product & delivery:** Jira, Confluence, Azure DevOps, Scrum, Agile delivery, UAT, release governance
 
----
+**Analytics & data:** SQL, Power BI, Tableau, Mixpanel, Excel Advanced, KPI frameworks
 
-## 🧰 Tech Stack
+**Design & documentation:** Figma, user journeys, service blueprints, requirements documentation
 
-<div align="center">
+**Platforms & systems:** Salesforce Service Cloud, Salesforce Experience Cloud, REST APIs, CRM workflows, case-management systems
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+**AI & automation:** AI product workflows, prompt design, decision support, human-in-the-loop processes, governance, reliability, workflow automation
 
-</div>
+## Selected product work
 
----
+### Government digital platforms
 
-## 🧩 What I Build
+Owned and delivered enterprise digital platforms supporting complex, multi-step national-scale services in a high-governance UK Civil Service environment.
 
-| Area | What I enjoy building |
-| --- | --- |
-| AI Products | Study assistants, generation tools, chat experiences, content automation |
-| Web Apps | SaaS dashboards, authentication flows, admin panels, user portals |
-| Utility Platforms | Calculator directories, productivity tools, workflow helpers |
-| Deployment | Dockerized apps, GitHub Actions pipelines, production server setup |
-| Growth | SEO-focused pages, performance improvements, analytics-ready experiences |
+Focus areas included eligibility, transaction processing, exception handling, post-event servicing, live-service performance, release coordination, and continuous service improvement.
 
----
+### AI & SaaS logistics platform
 
-## 📌 Current Focus
+Owned agent-facing platform products supporting high-volume, time-sensitive decision-making across 60+ locations.
 
-- Shipping polished **Next.js applications**
-- Building AI-powered tools that save people time
-- Improving production deployment workflows
-- Creating clean, useful interfaces with strong UX foundations
+Delivered dashboards, alerts, SLA workflows, case-management improvements, automated notifications, role-based views, and operational measurement frameworks.
 
----
+### Fintech SaaS platform
 
-## 📊 GitHub Stats
+Led technical product delivery for compliance-constrained financial platforms involving onboarding, validation flows, eligibility checks, pricing thresholds, auditability, UAT, and release governance.
 
-<div align="center">
+### SME credit scoring system
 
-![Folagbade's GitHub stats](https://github-readme-stats.vercel.app/api?username=FOLAGBADEOLUWA&show_icons=true&theme=tokyonight&hide_border=true)
+Designed and delivered a rules-based decisioning platform using alternative supply-chain data to assess SME creditworthiness.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=FOLAGBADEOLUWA&theme=tokyonight&hide_border=true)
+The platform supported lending decisions, risk assessment, pricing logic, exposure tracking, and portfolio visibility.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FOLAGBADEOLUWA&layout=compact&theme=tokyonight&hide_border=true)
+### Digital savings platform
 
-</div>
+Led redesign of SME savings journeys, integrating behavioural data into credit decisioning and improving customer experience, operational efficiency, and portfolio growth.
 
----
+### AI-enabled digital products
 
-## 🤝 Let's Connect
+Led product delivery for AI-enabled applications including resume generation, workflow automation, and adaptive learning systems, with focus on decision support, governance, reliability, and safe integration into existing platforms.
 
-I'm always open to learning, collaborating, and building useful things.
+## Current interests
 
-<div align="center">
+- Private markets technology
+- AI-enabled investment workflows
+- Financial data infrastructure
+- Decision-support systems
+- Product analytics and operational intelligence
+- Workflow automation in regulated environments
 
-[![GitHub](https://img.shields.io/badge/GitHub-FOLAGBADEOLUWA-181717?style=for-the-badge&logo=github)](https://github.com/FOLAGBADEOLUWA)
+## Writing & thought leadership
 
-</div>
+Author of *Product Manager* — exploring experimentation-led product delivery principles.
 
----
+## Contact
 
-<div align="center">
-
-### “Build small, learn fast, ship better.”
-
-</div>
+- LinkedIn: [linkedin.com/in/oluwatimilehin-folagbade-20023994](https://linkedin.com/in/oluwatimilehin-folagbade-20023994)
+- Email: [timmgbade@gmail.com](mailto:timmgbade@gmail.com)
